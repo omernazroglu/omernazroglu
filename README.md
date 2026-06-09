@@ -29,8 +29,6 @@ class OmerNazıroglu:
             "💻 Karmaşık DB mimarili web uygulamaları",
         ]
 
-    def favorite_quote(self):
-        return "Hazır framework kullanmak yerine sıfırdan CSS yazmayı seviyorum."
 ```
 
 ---
@@ -67,7 +65,6 @@ class OmerNazıroglu:
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Custom_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
@@ -96,20 +93,12 @@ Makine öğrenmesi modelleri ve derin öğrenme algoritmaları kullanarak otonom
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 💻 Karmaşık Web Sistemleri
 Bağış yönetim sistemleri, QR medya platformları ve kişiselleştirilmiş öneri motorları gibi gelişmiş DB mimarili web uygulamaları.
 
 **Teknolojiler:** ASP.NET Core · EF Core · SQL Server · Repository Pattern
-
-</td>
-<td width="50%">
-
-### 🎨 Sıfırdan CSS Tasarımı
-Hazır framework yerine tamamen özel CSS yazarak glassmorphism, micro-animation ve modern arayüz tasarımı.
-
-**Yaklaşım:** Vanilla CSS · Custom Design Systems · Zero Bootstrap
 
 </td>
 </tr>
