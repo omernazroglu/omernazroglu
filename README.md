@@ -73,36 +73,24 @@ class OmerNazıroglu:
 
 ## 🚀 Üzerinde Çalıştıklarım
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🤖 Otonom Enkaz Robotu
-Enkaz altındaki insanları tespit eden, otonom navigasyon yapabilen robotik sistem. YOLO tabanlı görüntü işleme + Raspberry Pi + Arduino entegrasyonu.
+> Enkaz altındaki insanları tespit eden, otonom navigasyon yapabilen robotik sistem. YOLO tabanlı görüntü işleme + Raspberry Pi + Arduino entegrasyonu.
 
-**Teknolojiler:** Python · YOLO · Raspberry Pi · Arduino · CNN
+`Python` `YOLO` `CNN` `Raspberry Pi` `Arduino`
 
-</td>
-<td width="50%">
+---
 
 ### 🚗 Otonom Sürüş Araştırması
-Makine öğrenmesi modelleri ve derin öğrenme algoritmaları kullanarak otonom araç davranışları üzerine araştırma ve geliştirme.
+> Makine öğrenmesi modelleri ve derin öğrenme algoritmaları kullanarak otonom araç davranışları üzerine araştırma ve geliştirme.
 
-**Teknolojiler:** Python · Deep Learning · RNN · CNN
+`Python` `Deep Learning` `RNN` `CNN`
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+---
 
 ### 💻 Karmaşık Web Sistemleri
-Bağış yönetim sistemleri, QR medya platformları ve kişiselleştirilmiş öneri motorları gibi gelişmiş DB mimarili web uygulamaları.
+> Bağış yönetim sistemleri, QR medya platformları ve kişiselleştirilmiş öneri motorları gibi gelişmiş DB mimarili web uygulamaları.
 
-**Teknolojiler:** ASP.NET Core · EF Core · SQL Server · Repository Pattern
-
-</td>
-</tr>
-</table>
+`ASP.NET Core` `EF Core` `SQL Server` `Repository Pattern`
 
 ---
 
