@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+%C3%96mer!+%F0%9F%91%8B;KT%C3%9C+M%C3%BChendislik+%C3%96%C4%9Frencisi;ASP.NET+%7C+AI+%7C+Robotics+Geli%C5%9Ftiricisi;Her+g%C3%BCn+bir+%C5%9Feyler+yap%C4%B1yorum...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+%C3%96mer!+%F0%9F%91%8B;KT%C3%9C+M%C3%BChendislik+Mezunu;ASP.NET+%7C+AI+%7C+Robotics+Geli%C5%9Ftiricisi;Her+g%C3%BCn+bir+%C5%9Feyler+yap%C4%B1yorum...)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,8 +17,9 @@
 ```python
 class OmerNazıroglu:
     def __init__(self):
-        self.university   = "Karadeniz Teknik Üniversitesi (KTÜ)"
+        self.university   = "Karadeniz Teknik Üniversitesi (KTÜ) 🎓"
         self.department   = "Mühendislik"
+        self.status       = "Mezun (Graduated)"
         self.interests    = ["Web Geliştirme", "Derin Öğrenme", "Otonom Robotik"]
         self.philosophy   = "Donanıma dokun, yazılımı inşa et."
 
